@@ -1,0 +1,9 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    background-color: blue;
+    min-height: 100vh;
+}

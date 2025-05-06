@@ -7,10 +7,12 @@
 .links {
     display: flex;
     flex-direction: row;
+
+
     align-items: center;
     justify-content: center;
     gap: 16px;
-    list-style: none;
+    list-style: none;   
 }
 
 a {
@@ -21,4 +23,8 @@ a {
     display: flex;
     flex-direction: row;
     align-items: center;  
+}
+
+.material-icons {
+    color: #06acf4;
 }

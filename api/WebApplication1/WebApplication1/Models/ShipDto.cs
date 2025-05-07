@@ -1,9 +1,9 @@
-﻿namespace WebApplication1.Models.Entities
-{
+﻿using WebApplication1.Models.Entities;
 
-    public class Ships
+namespace WebApplication1.Models
+{
+    public class ShipDto
     {
-        public Guid Id { get; set; }
         public required string Name { get; set; }
         public required int MaxSpeed { get; set; }
     }

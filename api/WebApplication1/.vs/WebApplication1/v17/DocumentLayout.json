@@ -1,38 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luc\\napa-project\\api\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\controllers\\voyagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\voyagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\controllers\\shipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\shipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\controllers\\portcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\portcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\models\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\models\\entities\\port.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\port.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\models\\portdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\portdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\models\\shipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\shipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\models\\voyagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\voyagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luc\\napa-project\\api\\webapplication1\\webapplication1\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\models\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luc\\napa-project\\api\\webapplication1\\webapplication1\\models\\entities\\ships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\ships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luc\\napa-project\\api\\webapplication1\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luc\\napa-project\\api\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luc\\napa-project\\api\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luc\\napa-project\\api\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luc\\napa-project\\api\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|c:\\users\\luci\\napa-project\\api\\webapplication1\\webapplication1\\models\\entities\\voyage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B3992-BC0E-4AC2-AAA1-0C5109DFD998}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\voyage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-06T16:08:02.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebApplication1\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T16:05:01.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ships.cs",
-              "DocumentMoniker": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\Entities\\Ships.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Ships.cs",
-              "ToolTip": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\Entities\\Ships.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Ships.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:56:43.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebApplication1.http",
-              "DocumentMoniker": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\WebApplication1.http",
-              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
-              "ToolTip": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\WebApplication1.http",
-              "RelativeToolTip": "WebApplication1\\WebApplication1.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-06T14:02:45.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-06T14:01:04.791Z",
+              "WhenOpened": "2025-05-07T20:07:36.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WebApplication1.csproj",
-              "DocumentMoniker": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
-              "ToolTip": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-06T09:51:06.139Z",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:59:44.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T19:53:16.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoyageController.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Controllers\\VoyageController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\VoyageController.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Controllers\\VoyageController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\VoyageController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4v00AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T08:25:15.856Z",
+              "WhenOpened": "2025-05-07T19:38:40.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VoyageDto.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\VoyageDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\VoyageDto.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\VoyageDto.cs*",
+              "RelativeToolTip": "WebApplication1\\Models\\VoyageDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:53:21.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Voyage.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\Entities\\Voyage.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Voyage.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\Entities\\Voyage.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Voyage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:28:25.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\Entities\\Country.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:26:19.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\CountryDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CountryDto.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\CountryDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:26:11.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShipDto.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\ShipDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ShipDto.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\ShipDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ShipDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:26:08.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Luc\\Napa-project\\api\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
-              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PortDto.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\PortDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\PortDto.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\PortDto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\PortDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T08:25:02.391Z",
+              "WhenOpened": "2025-05-07T18:07:15.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Port.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\Entities\\Port.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Port.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Models\\Entities\\Port.cs*",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Port.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:07:03.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShipController.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Controllers\\ShipController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ShipController.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Controllers\\ShipController.cs*",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ShipController.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:53:49.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PortController.cs",
+              "DocumentMoniker": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Controllers\\PortController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PortController.cs",
+              "ToolTip": "C:\\Users\\Luci\\Napa-project\\api\\WebApplication1\\WebApplication1\\Controllers\\PortController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PortController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:53:45.621Z",
               "EditorCaption": ""
             }
           ]
